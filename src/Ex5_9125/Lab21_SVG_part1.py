@@ -6,15 +6,14 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 
-def test_select():
+def test_SVG():
     driver = webdriver.Chrome()
-    driver.get("https://the-internet.herokuapp.com/dropdown")
+    driver.get("https://www.flipkart.com/")
 
-    select_element = driver.find_element(By.ID,"dropdown")
-    select = Select(select_element)
-    select.select_by_visible_text("Option 2")
-    # select.select_by_index(2).
+    searchbox_element = driver.find_element(By.NAME,"q")
+    searchbox_element.send_keys("macmini")
 
-
+    svg_element = driver.find_elements(By.XPATH,"//*[name()='svg']")
+    svg_element[0].click()
 
     time.sleep(5)

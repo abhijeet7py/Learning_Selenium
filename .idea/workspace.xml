@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab19_Selenium_Alerts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab20_Select.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab21_SVG_part1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab22_SVG_part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab23_Exception_p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab24_Exception_handle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab25_Staleexception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab_Stale_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/SVG_part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/SVG_part2_chatgpt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_7125/Lab14.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex4_7125/Lab14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_7125/Lab15.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex4_7125/Lab15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_7125/Lab17.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex4_7125/Lab17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_7125/Lab18.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex4_7125/Lab18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_7125/Test16.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex4_7125/Test16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex_7125/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex4_7125/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_9125/Lab20_Select.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab20_Select.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Ex1_41224/test_Lab01.py" root0="SKIP_INSPECTION" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -75,6 +78,11 @@
     "Python tests.Python tests in Lab18.py.executor": "Run",
     "Python tests.Python tests in Lab19_Selenium_Alerts.py.executor": "Run",
     "Python tests.Python tests in Lab20_Select.py.executor": "Run",
+    "Python tests.Python tests in Lab21_SVG_part1.py.executor": "Run",
+    "Python tests.Python tests in Lab22_SVG_part2.py.executor": "Run",
+    "Python tests.Python tests in Lab23_Exception_p1.py.executor": "Run",
+    "Python tests.Python tests in SVG_part2.py.executor": "Run",
+    "Python tests.Python tests in SVG_part2_chatgpt.py.executor": "Run",
     "Python tests.Python tests in Task1.py.executor": "Run",
     "Python tests.Python tests in Test6.py.executor": "Run",
     "Python tests.Python tests in test_Lab01.py.executor": "Run",
@@ -82,6 +90,9 @@
     "Python.Lab05.executor": "Run",
     "Python.Lab09.executor": "Run",
     "Python.Lab12.executor": "Run",
+    "Python.Lab24_Exception_handle.executor": "Run",
+    "Python.Lab25_Staleexception.executor": "Run",
+    "Python.Lab_Stale_exception.executor": "Run",
     "Python.test_Lab01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -153,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736428416587</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1736439379655</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736439379655</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
