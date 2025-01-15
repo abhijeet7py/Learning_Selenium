@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab21_SVG_part1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab22_SVG_part2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab23_Exception_p1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab24_Exception_handle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab25_Staleexception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab_Stale_exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/SVG_part2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/SVG_part2_chatgpt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_15125/Lab27_ActionsP1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_15125/Lab28_ActionsP2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_15125/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex5_9125/Lab20_Select.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab20_Select.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +75,8 @@
     "Python tests.Python tests in Lab21_SVG_part1.py.executor": "Run",
     "Python tests.Python tests in Lab22_SVG_part2.py.executor": "Run",
     "Python tests.Python tests in Lab23_Exception_p1.py.executor": "Run",
+    "Python tests.Python tests in Lab26_timeoutException.py.executor": "Run",
+    "Python tests.Python tests in Lab27_ActionsP1.py.executor": "Run",
     "Python tests.Python tests in SVG_part2.py.executor": "Run",
     "Python tests.Python tests in SVG_part2_chatgpt.py.executor": "Run",
     "Python tests.Python tests in Task1.py.executor": "Run",
@@ -172,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736439379655</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1736778554586</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736778554586</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
