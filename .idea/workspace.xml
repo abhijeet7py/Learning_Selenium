@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/src/Ex6_15125/Lab 30_ActionP4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6_15125/Lab29_ActionsP3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6_15125/Lab31_Actions_makemytrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_15125/Lab32_Actions_windows.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +79,7 @@
     "Python tests.Python tests in Lab28_ActionsP2.py.executor": "Run",
     "Python tests.Python tests in Lab29_ActionsP3.py.executor": "Run",
     "Python tests.Python tests in Lab31_Actions_makemytrip.py.executor": "Run",
+    "Python tests.Python tests in Lab32_Actions_windows.py.executor": "Run",
     "Python tests.Python tests in SVG_part2.py.executor": "Run",
     "Python tests.Python tests in SVG_part2_chatgpt.py.executor": "Run",
     "Python tests.Python tests in Task1.py.executor": "Run",
@@ -92,6 +91,7 @@
     "Python.Lab12.executor": "Run",
     "Python.Lab24_Exception_handle.executor": "Run",
     "Python.Lab25_Staleexception.executor": "Run",
+    "Python.Lab32_Actions_windows.executor": "Run",
     "Python.Lab_Stale_exception.executor": "Run",
     "Python.test_Lab01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
