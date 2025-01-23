@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/src/Ex1_41224/Prac2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1_41224/Prac_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7_21125/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_91224/Prac3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_91224/Prac4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_91224/Prac5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_91224/Prac6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_91224/Prac7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_91224/Lab05.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex2_91224/Lab05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +85,12 @@
     "Python tests.Python tests in Lab29_ActionsP3.py.executor": "Run",
     "Python tests.Python tests in Lab31_Actions_makemytrip.py.executor": "Run",
     "Python tests.Python tests in Lab32_Actions_windows.py.executor": "Run",
+    "Python tests.Python tests in Lab33_JS_P1.py.executor": "Run",
     "Python tests.Python tests in Prac2.py.executor": "Run",
+    "Python tests.Python tests in Prac4.py.executor": "Run",
+    "Python tests.Python tests in Prac5.py.executor": "Run",
+    "Python tests.Python tests in Prac6.py.executor": "Run",
+    "Python tests.Python tests in Prac7.py.executor": "Run",
     "Python tests.Python tests in Prac_1.py.executor": "Run",
     "Python tests.Python tests in SVG_part2.py.executor": "Run",
     "Python tests.Python tests in SVG_part2_chatgpt.py.executor": "Run",
@@ -97,6 +105,7 @@
     "Python.Lab25_Staleexception.executor": "Run",
     "Python.Lab32_Actions_windows.executor": "Run",
     "Python.Lab_Stale_exception.executor": "Run",
+    "Python.Prac3.executor": "Run",
     "Python.test_Lab01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -200,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737378479117</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1737465612730</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737465612730</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
