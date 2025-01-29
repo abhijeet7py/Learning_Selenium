@@ -25,4 +25,4 @@ def test_negative_vwo_login_project2():
     time.sleep(5)
     driver.quit()
 
-test_negative_vwo_login_project2()
+# test_negative_vwo_login_project2()
