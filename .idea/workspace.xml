@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/src/Ex8_Webtables/Lab38_webtables_static.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Ex8_Webtables/Lab39_Webtables_dynmic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex8_Webtables/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +82,7 @@
     "Python tests.Python tests in Lab32_Actions_windows.py.executor": "Run",
     "Python tests.Python tests in Lab33_JS_P1.py.executor": "Run",
     "Python tests.Python tests in Lab38_webtables.py.executor": "Run",
+    "Python tests.Python tests in Lab39_Webtables_dynmic.py.executor": "Run",
     "Python tests.Python tests in Prac10.py.executor": "Run",
     "Python tests.Python tests in Prac2.py.executor": "Run",
     "Python tests.Python tests in Prac4.py.executor": "Run",
@@ -252,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738157907088</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1739206806545</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1739206806545</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
