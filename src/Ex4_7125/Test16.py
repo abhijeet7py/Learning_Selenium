@@ -19,7 +19,7 @@ def test_5():
     # search_box_inout_css = driver.find_element(By.CSS_SELECTOR,"#gh-ac")
     search_box_input_xpath.send_keys("macmini")
 
-    search_box_button = driver.find_element(By.CSS_SELECTOR, "input[value='Search']")
+    search_box_button = driver.find_element(By.CSS_SELECTOR, "button[value='Search']")
     search_box_button.click()
 
     list_of_items = driver.find_elements(By.CSS_SELECTOR, ".s-item__title")
