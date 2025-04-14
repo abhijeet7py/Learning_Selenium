@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/src/Ex4_7125/Prac15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4_7125/prac14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4_7125/Prac17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex4_7125/Test16.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex4_7125/Test16.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,7 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Ex1_41224/test_Lab01.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Ex4_7125/Prac17.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -89,6 +88,7 @@
     "Python tests.Python tests in Lab38_webtables.py.executor": "Run",
     "Python tests.Python tests in Lab39_Webtables_dynmic.py.executor": "Run",
     "Python tests.Python tests in Prac10.py.executor": "Run",
+    "Python tests.Python tests in Prac17.py.executor": "Run",
     "Python tests.Python tests in Prac2.py.executor": "Run",
     "Python tests.Python tests in Prac4.py.executor": "Run",
     "Python tests.Python tests in Prac5.py.executor": "Run",
@@ -120,7 +120,7 @@
     "Python.test_Lab01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Python-Selenium/Framework/Automation_Framework2",
+    "last_opened_file_path": "C:/Python-Selenium/Framework/Demo_E-commerce_Framework",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
@@ -292,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739543729060</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1741019814851</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1741019814851</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
