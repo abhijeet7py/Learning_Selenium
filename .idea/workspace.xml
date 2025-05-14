@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/Prac21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_9125/prac22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_15125/prac27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_15125/prac28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_15125/prac29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_15125/prac30.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +44,7 @@
     <setting file="file://$PROJECT_DIR$/src/Ex4_7125/Prac17.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex4_7125/Prac18.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex5_9125/prac22.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Ex5_9125/prac26.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -111,6 +114,14 @@
     "Python tests.Python tests in Test6.py.executor": "Run",
     "Python tests.Python tests in prac14.py.executor": "Run",
     "Python tests.Python tests in prac22.py.executor": "Run",
+    "Python tests.Python tests in prac23.py.executor": "Run",
+    "Python tests.Python tests in prac24.py.executor": "Run",
+    "Python tests.Python tests in prac25.py.executor": "Run",
+    "Python tests.Python tests in prac26.py.executor": "Run",
+    "Python tests.Python tests in prac27.py.executor": "Run",
+    "Python tests.Python tests in prac28.py.executor": "Run",
+    "Python tests.Python tests in prac29.py.executor": "Run",
+    "Python tests.Python tests in prac30.py.executor": "Run",
     "Python tests.Python tests in test_Lab01.py.executor": "Run",
     "Python tests.Python tests in test_Lab02.py.executor": "Run",
     "Python.Lab05.executor": "Run",
@@ -324,7 +335,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745340082306</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1747147947512</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1747147947512</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1747228562477</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1747228562477</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
