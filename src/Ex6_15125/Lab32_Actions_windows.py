@@ -20,6 +20,7 @@ def test_verify_action_windows():
 
     driver = webdriver.Chrome(chrome_options)
     driver.get("https://the-internet.herokuapp.com/windows")
+
     driver.maximize_window()
 
     parent_window = driver.current_window_handle  # 1
