@@ -26,6 +26,8 @@ def test_showdow_dom_js():
     username_div = driver.find_element(By.XPATH, "//div[@id='userName']")
     driver.execute_script("arguments[0].scrollIntoView(true);", username_div)
 
+    time.sleep(5)
+
     input_box = driver.execute_script(
         "return document.querySelector('div#userName').shadowRoot.querySelector('#app2').shadowRoot.querySelector('#pizza');")
     input_box.send_keys("farmhouse")
