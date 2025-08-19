@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/src/Ex7_21125/prac33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7_21125/prac34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7_21125/prac35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7_21125/prac36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_15125/prac_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8_Webtables/prac38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8_Webtables/prac39.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex7_21125/Lab33_JS_P4.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex7_21125/Lab33_JS_P4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1_41224/test_Lab01.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1_41224/test_Lab01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1_41224/test_Lab02.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1_41224/test_Lab02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_91224/Lab05.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex2_91224/Lab05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_121224/Lab13.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_121224/Lab13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4_7125/Lab15.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex4_7125/Lab15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_9125/prac22.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex5_9125/prac22.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +135,7 @@
     "Python tests.Python tests in prac34.py.executor": "Run",
     "Python tests.Python tests in prac35.py.executor": "Run",
     "Python tests.Python tests in prac36.py.executor": "Run",
+    "Python tests.Python tests in prac_actions.py.executor": "Run",
     "Python tests.Python tests in test_Lab01.py.executor": "Run",
     "Python tests.Python tests in test_Lab02.py.executor": "Run",
     "Python.Lab05.executor": "Run",

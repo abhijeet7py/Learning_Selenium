@@ -14,5 +14,5 @@ def test_sample():
     # Selenium 4 ( Selenium manager) - who will download the driver by itself)
     driver = webdriver.Chrome()
     driver.get("https://google.com")
-    driver.title
+    print(driver.title)
     assert driver.current_url == "https://www.google.com/"

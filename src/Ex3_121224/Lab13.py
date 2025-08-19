@@ -17,9 +17,5 @@ def test_5():
     first_name_input_tag.send_keys("Hello")
     # //tagname[@attribute="Value"] --> Xpath
 
-
-
-
-
     time.sleep(5)
     driver.quit()

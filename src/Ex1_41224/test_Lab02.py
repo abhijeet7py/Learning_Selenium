@@ -10,3 +10,4 @@ def test_open_vwo_login():
 
     print(driver.title)
     assert driver.title == "Login - VWO"
+
