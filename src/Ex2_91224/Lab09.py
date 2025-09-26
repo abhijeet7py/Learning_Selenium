@@ -20,6 +20,6 @@ def test_VWO_login():
     time.sleep(5)
     driver.quit()
 
-test_VWO_login()
+# test_VWO_login()
 
 
