@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab3/P13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4_7125/P15.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +98,8 @@
     "Python tests.Python tests in P11.py.executor": "Run",
     "Python tests.Python tests in P12.py.executor": "Run",
     "Python tests.Python tests in P13.py.executor": "Run",
+    "Python tests.Python tests in P14.py.executor": "Run",
+    "Python tests.Python tests in P15.py.executor": "Run",
     "Python tests.Python tests in P8.py.executor": "Run",
     "Python tests.Python tests in P9.py.executor": "Run",
     "Python tests.Python tests in Prac10.py.executor": "Run",
@@ -399,7 +403,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758904822597</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1758984489594</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1758984489594</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
