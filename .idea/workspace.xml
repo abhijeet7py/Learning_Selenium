@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4_7125/P15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4_7125/P15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +102,9 @@
     "Python tests.Python tests in P13.py.executor": "Run",
     "Python tests.Python tests in P14.py.executor": "Run",
     "Python tests.Python tests in P15.py.executor": "Run",
+    "Python tests.Python tests in P16.py.executor": "Run",
+    "Python tests.Python tests in P17.py.executor": "Run",
+    "Python tests.Python tests in P18.py.executor": "Run",
     "Python tests.Python tests in P8.py.executor": "Run",
     "Python tests.Python tests in P9.py.executor": "Run",
     "Python tests.Python tests in Prac10.py.executor": "Run",
@@ -163,6 +168,12 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python-Selenium\Python Learning\Learning Selenium\Selenium_Practise\Lab4" />
+      <recent name="C:\Python-Selenium\Python Learning\Learning Selenium\Selenium_Practise\Lab3" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -411,7 +422,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758984489594</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1759239188557</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1759239188557</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
