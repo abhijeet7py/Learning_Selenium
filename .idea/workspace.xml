@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change beforePath="$PROJECT_DIR$/.idea/Learning Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning Selenium.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P21_ebay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P22_waits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4_7125/P23_Fluent-wait.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Practise/Lab4/P19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Practise/Lab4/P20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P20.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +34,15 @@
     &quot;assignee&quot;: &quot;abhijeet7py&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/abhijeet7py/Learning_Selenium.git",
-    "accountId": "48c3b8e9-b4c2-46d1-b414-eed8e46dd848"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/abhijeet7py/Learning_Selenium.git&quot;,
+    &quot;accountId&quot;: &quot;48c3b8e9-b4c2-46d1-b414-eed8e46dd848&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab4/P20.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab4/P22_waits.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex1_41224/test_Lab01.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex4_7125/Prac17.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex4_7125/Prac18.py" root0="SKIP_INSPECTION" />
@@ -101,6 +106,10 @@
     "Python tests.Python tests in P16.py.executor": "Run",
     "Python tests.Python tests in P17.py.executor": "Run",
     "Python tests.Python tests in P18.py.executor": "Run",
+    "Python tests.Python tests in P20.py.executor": "Run",
+    "Python tests.Python tests in P21_ebay.py.executor": "Run",
+    "Python tests.Python tests in P22_waits.py.executor": "Run",
+    "Python tests.Python tests in P23_Fluent-wait.py.executor": "Run",
     "Python tests.Python tests in P8.py.executor": "Run",
     "Python tests.Python tests in P9.py.executor": "Run",
     "Python tests.Python tests in Prac10.py.executor": "Run",
@@ -428,7 +437,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759239188557</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1759474866400</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1759474866400</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

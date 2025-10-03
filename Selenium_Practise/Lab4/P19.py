@@ -9,7 +9,7 @@
 
 # 4. normalise-space() --> //a[normalise-space()="make appointment"
 
-# Pratise
+# Pratice
 
 # //a[starts-with(@title,"Outlook")]
 
