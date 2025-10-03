@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Learning Selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning Selenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex4_7125/P15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +31,12 @@
     &quot;assignee&quot;: &quot;abhijeet7py&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/abhijeet7py/Learning_Selenium.git&quot;,
-    &quot;accountId&quot;: &quot;4c5ff3d7-ec22-4e5a-8733-4c444265bdc5&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/abhijeet7py/Learning_Selenium.git",
+    "accountId": "48c3b8e9-b4c2-46d1-b414-eed8e46dd848"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Ex1_41224/test_Lab01.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex4_7125/Prac17.py" root0="SKIP_INSPECTION" />
@@ -56,7 +53,6 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2pkjnEhUxmhfooJzEJ1nKC378C8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -163,6 +159,8 @@
     "Python.prac14.executor": "Run",
     "Python.test_Lab01.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Python-Selenium/Framework/Demo_E-commerce_Framework",
     "settings.editor.selected.configurable": "vcs.Git"
@@ -177,7 +175,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f5635417b835-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18968.29" />
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
       </set>
     </attachedChunks>
   </component>
