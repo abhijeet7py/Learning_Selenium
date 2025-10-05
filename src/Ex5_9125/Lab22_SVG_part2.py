@@ -18,7 +18,7 @@ def test_verify_SVG():
     for state in list_of_states:
         print(state.get_attribute("aria-label"))
         # time.sleep(2)
-        if "Tripura" in state.get_attribute("aria-label"):
+        if "Maharashtra" in state.get_attribute("aria-label"):
             state.click()
             break
 

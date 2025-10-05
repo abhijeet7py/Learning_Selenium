@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P21_ebay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P22_waits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4_7125/P23_Fluent-wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P23_inputBox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P24_alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P25_Dropdowns_static.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P26_svg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P27_svg2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P28_svg2_prac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Practise/Lab4/P19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_Practise/Lab4/P20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Practise/Lab4/P20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_9125/Lab22_SVG_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab22_SVG_part2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +46,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab4/P20.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab4/P22_waits.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P24_alerts.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P25_Dropdowns_static.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex1_41224/test_Lab01.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex4_7125/Prac17.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex4_7125/Prac18.py" root0="SKIP_INSPECTION" />
@@ -64,6 +69,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for Selenium_Practise.Lab5_Select.P24_alerts.test_JS_alert.executor": "Run",
+    "Python tests.Python tests for Selenium_Practise.Lab5_Select.P24_alerts.test_confirm.executor": "Run",
+    "Python tests.Python tests for Selenium_Practise.Lab5_Select.P24_alerts.test_js_confirm.executor": "Run",
     "Python tests.Python tests in Lab 30_ActionP4.py.executor": "Run",
     "Python tests.Python tests in Lab03.py.executor": "Run",
     "Python tests.Python tests in Lab04.py.executor": "Run",
@@ -110,6 +118,12 @@
     "Python tests.Python tests in P21_ebay.py.executor": "Run",
     "Python tests.Python tests in P22_waits.py.executor": "Run",
     "Python tests.Python tests in P23_Fluent-wait.py.executor": "Run",
+    "Python tests.Python tests in P23_inputBox.py.executor": "Run",
+    "Python tests.Python tests in P24_alerts.py.executor": "Run",
+    "Python tests.Python tests in P25_Dropdowns_static.py.executor": "Run",
+    "Python tests.Python tests in P26_svg.py.executor": "Run",
+    "Python tests.Python tests in P27_svg2.py.executor": "Run",
+    "Python tests.Python tests in P28_svg2_prac.py.executor": "Run",
     "Python tests.Python tests in P8.py.executor": "Run",
     "Python tests.Python tests in P9.py.executor": "Run",
     "Python tests.Python tests in Prac10.py.executor": "Run",
@@ -171,8 +185,10 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Python-Selenium/Framework/Demo_E-commerce_Framework",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "vcs.Git",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -180,6 +196,60 @@
       <recent name="C:\Python-Selenium\Python Learning\Learning Selenium\Selenium_Practise\Lab4" />
       <recent name="C:\Python-Selenium\Python Learning\Learning Selenium\Selenium_Practise\Lab3" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for Selenium_Practise.Lab5_Select.P24_alerts.test_JS_alert" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Learning Selenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Selenium_Practise.Lab5_Select.P24_alerts.test_JS_alert&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Selenium_Practise.Lab5_Select.P24_alerts.test_confirm" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Learning Selenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Selenium_Practise.Lab5_Select.P24_alerts.test_confirm&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Selenium_Practise.Lab5_Select.P24_alerts.test_js_confirm" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Learning Selenium" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Selenium_Practise.Lab5_Select.P24_alerts.test_js_confirm&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for Selenium_Practise.Lab5_Select.P24_alerts.test_js_confirm" />
+        <item itemvalue="Python tests.Python tests for Selenium_Practise.Lab5_Select.P24_alerts.test_JS_alert" />
+        <item itemvalue="Python tests.Python tests for Selenium_Practise.Lab5_Select.P24_alerts.test_confirm" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -445,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759474866400</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1759513114969</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1759513114969</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
