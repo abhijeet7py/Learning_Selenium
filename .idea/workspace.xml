@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P23_inputBox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P24_alerts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P25_Dropdowns_static.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P26_svg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P27_svg2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P28_svg2_prac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P29_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P30_Exception_handle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P31_stale_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P32_timeout_exception.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex5_9125/Lab22_SVG_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex5_9125/Lab22_SVG_part2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +44,7 @@
     <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab4/P22_waits.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P24_alerts.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P25_Dropdowns_static.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P32_timeout_exception.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex1_41224/test_Lab01.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex4_7125/Prac17.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex4_7125/Prac18.py" root0="SKIP_INSPECTION" />
@@ -124,6 +121,10 @@
     "Python tests.Python tests in P26_svg.py.executor": "Run",
     "Python tests.Python tests in P27_svg2.py.executor": "Run",
     "Python tests.Python tests in P28_svg2_prac.py.executor": "Run",
+    "Python tests.Python tests in P29_Exception.py.executor": "Run",
+    "Python tests.Python tests in P30_Exception_handle.py.executor": "Run",
+    "Python tests.Python tests in P31.py.executor": "Run",
+    "Python tests.Python tests in P32_timeout_exception.py.executor": "Run",
     "Python tests.Python tests in P8.py.executor": "Run",
     "Python tests.Python tests in P9.py.executor": "Run",
     "Python tests.Python tests in Prac10.py.executor": "Run",
@@ -523,7 +524,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759513114969</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1759678059860</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1759678059860</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
