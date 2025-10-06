@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P29_Exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P30_Exception_handle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P31_stale_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P32_timeout_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P33_Action_kryboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P34_mouse_action.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P35_clickn_hold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P36_dragn_drop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P37_make_my_trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P38_opencart_keyboard_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,6 +128,12 @@
     "Python tests.Python tests in P30_Exception_handle.py.executor": "Run",
     "Python tests.Python tests in P31.py.executor": "Run",
     "Python tests.Python tests in P32_timeout_exception.py.executor": "Run",
+    "Python tests.Python tests in P33_Action_kryboard.py.executor": "Run",
+    "Python tests.Python tests in P34_mouse_action.py.executor": "Run",
+    "Python tests.Python tests in P35_clickn_hold.py.executor": "Run",
+    "Python tests.Python tests in P36_dragn_drop.py.executor": "Run",
+    "Python tests.Python tests in P37_make_my_trip.py.executor": "Run",
+    "Python tests.Python tests in P38_opencart_keyboard_demo.py.executor": "Run",
     "Python tests.Python tests in P8.py.executor": "Run",
     "Python tests.Python tests in P9.py.executor": "Run",
     "Python tests.Python tests in Prac10.py.executor": "Run",
@@ -532,11 +541,29 @@
       <option name="project" value="LOCAL" />
       <updated>1759678059860</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1759740562730</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1759740562730</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Selenium Learning" />
     <option name="LAST_COMMIT_MESSAGE" value="Selenium Learning" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Ex6_15125/Lab28_ActionsP2.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
