@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P33_Action_kryboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P34_mouse_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P35_clickn_hold.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P36_dragn_drop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P37_make_my_trip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P38_opencart_keyboard_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P39_window.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,6 +128,7 @@
     "Python tests.Python tests in P36_dragn_drop.py.executor": "Run",
     "Python tests.Python tests in P37_make_my_trip.py.executor": "Run",
     "Python tests.Python tests in P38_opencart_keyboard_demo.py.executor": "Run",
+    "Python tests.Python tests in P39_window.py.executor": "Run",
     "Python tests.Python tests in P8.py.executor": "Run",
     "Python tests.Python tests in P9.py.executor": "Run",
     "Python tests.Python tests in Prac10.py.executor": "Run",
@@ -549,7 +544,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759740562730</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1759760995066</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1759760995066</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
