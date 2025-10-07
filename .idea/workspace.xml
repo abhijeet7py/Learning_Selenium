@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P39_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P40_win_action.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab7_JS_POM/P41_JS_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab7_JS_POM/P42_JS_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab7_JS_POM/P43_JS_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab7_JS_POM/P44_JS_P4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab7_JS_POM/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +47,7 @@
     <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P24_alerts.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P25_Dropdowns_static.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P32_timeout_exception.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab7_JS_POM/P44_JS_P4.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex1_41224/test_Lab01.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex4_7125/Prac17.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex4_7125/Prac18.py" root0="SKIP_INSPECTION" />
@@ -129,6 +135,11 @@
     "Python tests.Python tests in P37_make_my_trip.py.executor": "Run",
     "Python tests.Python tests in P38_opencart_keyboard_demo.py.executor": "Run",
     "Python tests.Python tests in P39_window.py.executor": "Run",
+    "Python tests.Python tests in P40_win_action.py.executor": "Run",
+    "Python tests.Python tests in P41_JS_P1.py.executor": "Run",
+    "Python tests.Python tests in P42_JS_P2.py.executor": "Run",
+    "Python tests.Python tests in P43_JS_P3.py.executor": "Run",
+    "Python tests.Python tests in P44_JS_P4.py.executor": "Run",
     "Python tests.Python tests in P8.py.executor": "Run",
     "Python tests.Python tests in P9.py.executor": "Run",
     "Python tests.Python tests in Prac10.py.executor": "Run",
@@ -552,7 +563,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759760995066</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1759770941568</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1759770941568</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
