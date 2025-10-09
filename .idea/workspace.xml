@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c21c8ca-0850-496e-a388-888536fdbbd5" name="Changes" comment="Selenium Learning">
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab6_Action_class/P40_win_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab7_JS_POM/P41_JS_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab7_JS_POM/P42_JS_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab7_JS_POM/P43_JS_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab7_JS_POM/P44_JS_P4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab7_JS_POM/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_Practise/Lab8_web_tables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8_Webtables/Lab38_webtables_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex8_Webtables/Lab38_webtables_static.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +44,7 @@
     <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P25_Dropdowns_static.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab5_Select/P32_timeout_exception.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab7_JS_POM/P44_JS_P4.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Selenium_Practise/Lab8_web_tables.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex1_41224/test_Lab01.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex4_7125/Prac17.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Ex4_7125/Prac18.py" root0="SKIP_INSPECTION" />
@@ -105,6 +102,7 @@
     "Python tests.Python tests in Lab33_Organise_class.py.executor": "Run",
     "Python tests.Python tests in Lab38_webtables.py.executor": "Run",
     "Python tests.Python tests in Lab39_Webtables_dynmic.py.executor": "Run",
+    "Python tests.Python tests in Lab8_web_tables.py.executor": "Run",
     "Python tests.Python tests in P10.py.executor": "Run",
     "Python tests.Python tests in P11.py.executor": "Run",
     "Python tests.Python tests in P12.py.executor": "Run",
@@ -261,9 +259,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for Selenium_Practise.Lab5_Select.P24_alerts.test_confirm" />
         <item itemvalue="Python tests.Python tests for Selenium_Practise.Lab5_Select.P24_alerts.test_js_confirm" />
         <item itemvalue="Python tests.Python tests for Selenium_Practise.Lab5_Select.P24_alerts.test_JS_alert" />
-        <item itemvalue="Python tests.Python tests for Selenium_Practise.Lab5_Select.P24_alerts.test_confirm" />
       </list>
     </recent_temporary>
   </component>
@@ -571,7 +569,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759770941568</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Selenium Learning">
+      <option name="closed" value="true" />
+      <created>1759849668651</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1759849668651</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

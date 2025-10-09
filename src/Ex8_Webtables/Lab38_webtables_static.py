@@ -2,7 +2,6 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
-# from selenium.webdriver.support.expected_conditions import E\
 
 def test_webtables():
     driver = webdriver.Chrome()
